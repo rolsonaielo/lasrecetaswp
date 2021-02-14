@@ -1,0 +1,56 @@
+[14-Feb-2021 13:10:24 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\functions.php on line 10
+[14-Feb-2021 13:12:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\functions.php on line 10
+[14-Feb-2021 13:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13
+[14-Feb-2021 13:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13
+[14-Feb-2021 13:19:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13
+[14-Feb-2021 13:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13
+[14-Feb-2021 13:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13
+[14-Feb-2021 13:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header() in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php:13
+Stack trace:
+#0 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\usuari...', true, Array)
+#2 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\index.php(1): get_header()
+#4 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\usuari...')
+#5 C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\usuari...')
+#6 C:\Users\usuario\Deskt in C:\Users\usuario\Desktop\cursocreacionweb\lasrecetaswp\app\public\wp-content\themes\misrecetas-main\header.php on line 13

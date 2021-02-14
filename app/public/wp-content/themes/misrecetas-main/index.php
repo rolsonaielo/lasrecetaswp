@@ -1,4 +1,4 @@
-<?php get_header( ); ?>
+<?php get_header(); ?>
     
             <main class="grid">
                 
@@ -27,19 +27,19 @@
 
                         <h2 class="head-strong txt-center mb-05">Menu del día</h2>
 
-                        <div class="bg-light pad-1 rounded">
+                        <div class="pad-1 rounded">
                             <div class="grid">
                                 <div class="col-mob-4 mb-1">
                                     <h3 class="fnt-md head-strong mb-05 txt-center">Entrante</h3>
-                                    <img class="img-md rounded" src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/vichyssoise-de-esparragos-blancos.jpg">
+                                    <img class="img-md " src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/vichyssoise-de-esparragos-blancos.jpg">
                                 </div>
                                 <div class="col-mob-4 mb-1">
                                     <h3 class="head-strong mb-05 txt-center">Principal</h3>
-                                    <img class="img-md rounded" src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/lubina-con-hummus-de-guisantes.jpg">
+                                    <img class="img-md " src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/lubina-con-hummus-de-guisantes.jpg">
                                 </div>
                                 <div class="col-mob-4 mb-1">
                                     <h3 class="head-strong mb-05 txt-center">Postre</h3>
-                                    <img class="img-md rounded" src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/tiramisu-express.jpg">
+                                    <img class="img-md " src="<?php echo get_stylesheet_directory_uri() ; ?>/imagenes/tiramisu-express.jpg">
                                 </div>
                             </div>                            
                         </div>    
@@ -47,5 +47,4 @@
                
             </main>
 
-   <?php get_footer( ) ; ?>       
-           
+  <?php get_footer(); ?> 

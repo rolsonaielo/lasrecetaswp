@@ -1,7 +1,6 @@
 <?php get_header(); ?>
-    
+
             <main class="grid">
-                
                     <section class="col-desk-10 col-tab-8 col-mob-12 separator-block">  
                         <div class="grid">
                             <div class="col-desk-6 col-tab-6 mb-2">

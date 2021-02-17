@@ -27,7 +27,7 @@
                         'menu_id' => 'primary-menu',
                         'container' => 'nav',
                         'container_class' => 'nav-main block-center-row mb-2'
-                        'after' => '<span>|</span>'
+                        'affter' => '<span>|</span>'
                     )
                 );
 
